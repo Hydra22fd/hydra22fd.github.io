@@ -41,3 +41,17 @@ Author: hydra22fd
 MD5sum: 72bb29cf0678b186c5aa3077dcac5a52
 Filename: ./debs/Frida.deb
 Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=Frida
+
+Package: iflooder
+Name: iFlooder
+Name: ifloorer
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 12148
+Maintainer: hydra22fd
+Architecture: iphoneos-arm
+Description: A tweak to spam in the messages app.
+Author: hydra22fd
+MD5sum: dc3a8523b8d7f4b6544fde5517436879
+Filename: ./deb/iflooder.deb
+Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=iflooder
