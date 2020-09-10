@@ -27,3 +27,20 @@ Size: 376630
 MD5sum: 64a2806148602bc9b272b52036633ae0
 Filename: ./debs/SocialDownloader.deb
 Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=SocialDownloader
+
+Package: Frida
+Name: Frida for pre-A12 devices
+Version: 12.11.13
+Priority: optional
+Size: 17917280 
+Installed-Size: 39832
+Architecture: iphoneos-arm
+Description: Inject JavaScript to explore iOS apps over USB.
+Homepage: https://www.frida.re/
+Maintainer: hydra22fd <oleavr@nowsecure.com>
+Author: hydra22fd <oleavr@nowsecure.com>
+Section: Development
+Conflicts: re.frida.server32, re.frida.server64
+MD5sum: 72bb29cf0678b186c5aa3077dcac5a52
+Filename: ./debs/Frida.deb
+Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=Frida
