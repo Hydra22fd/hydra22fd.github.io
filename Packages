@@ -54,3 +54,18 @@ Author: hydra22fd
 MD5sum: dc3a8523b8d7f4b6544fde5517436879
 Filename: ./deb/iflooder.deb
 Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=iflooder
+
+Package: screenfreeze
+Name: ScreenFreeze
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Installed-Size: 33538
+Author: hydra22fd
+Maintainer: hydra22fd
+Description: Freeze the screen on command!
+MD5sum: f285d58383730eeb4862a98c69ae823c
+Filename: ./deb/screenfreeze.deb
+Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=screenfreeze
+
+
