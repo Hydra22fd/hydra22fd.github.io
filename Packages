@@ -44,7 +44,6 @@ Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=Frida
 
 Package: iflooder
 Name: iFlooder
-Name: ifloorer
 Section: Tweaks
 Version: 1.0.1
 Installed-Size: 12148
