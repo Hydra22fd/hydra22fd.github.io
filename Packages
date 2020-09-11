@@ -72,10 +72,10 @@ Package: org.hacx.superrecorderxplus
 Name: Super Recorder X+ (iOS 12,13)
 Version: 3.20-8
 Architecture: iphoneos-arm
+Installed-Size: 8594316
 Section: Tweaks
 Author: hydra22fd
 Maintainer: hydra22fd
-Description: CallRecord
 Description: Native Call Recorder & Voice Amplifier for iOS 12,13
 MD5sum: e785dc6743ebf2ee1c7e7783a869afc4
 Filename: ./deb/CallRecord.deb
