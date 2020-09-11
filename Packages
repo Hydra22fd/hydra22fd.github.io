@@ -68,8 +68,8 @@ MD5sum: f285d58383730eeb4862a98c69ae823c
 Filename: ./deb/screenfreeze.deb
 Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=screenfreeze
 
-Package: org.hacx.superrecorderxplus
-Name: Super Recorder X+ (iOS 12,13)
+Package: CallRecord
+Name: CallRecord
 Version: 3.20-8
 Architecture: iphoneos-arm
 Installed-Size: 8594316
