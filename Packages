@@ -81,12 +81,11 @@ MD5sum: e785dc6743ebf2ee1c7e7783a869afc4
 Filename: ./deb/CallRecord.deb
 Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=CallRecord\
 
-Package: restats
+Package: ReStats
 Name: ReStats Reborn
 Version: 1.4
 Section: Tweaks
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
 Installed-Size: 392224
 Author: hydra22fd
 Maintainer: hydra22fd
