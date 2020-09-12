@@ -79,6 +79,20 @@ Maintainer: hydra22fd
 Description: Native Call Recorder & Voice Amplifier for iOS 12,13
 MD5sum: e785dc6743ebf2ee1c7e7783a869afc4
 Filename: ./deb/CallRecord.deb
-Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=CallRecord
+Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=CallRecord\
+
+Package: restats
+Name: ReStats Reborn
+Version: 1.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 392224
+Author: hydra22fd
+Maintainer: hydra22fd
+Description: Automatically reset Cellular statistics on a certain day! Support iOS7-13
+MD5sum: 90c323da8a9116218f7f23cc93a56788
+Filename: ./deb/ReStats.deb
+Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=ReStats
 
 
