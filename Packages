@@ -84,9 +84,9 @@ Depiction: https://hydra22fd.github.io/hydra22fd/depiction/?p=CallRecord\
 Package: ReStats
 Name: ReStats Reborn
 Version: 1.4
-Section: Tweaks
 Architecture: iphoneos-arm
 Installed-Size: 392224
+Section: Tweaks
 Author: hydra22fd
 Maintainer: hydra22fd
 Description: Automatically reset Cellular statistics on a certain day! Support iOS7-13
